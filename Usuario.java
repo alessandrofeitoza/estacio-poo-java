@@ -54,3 +54,7 @@ public class Usuario {
         System.out.println("Usuario excluido");
     }
 }
+
+
+Usuario x = new Usuario();
+

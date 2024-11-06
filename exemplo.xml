@@ -1,0 +1,20 @@
+<Compra>
+    <Estabelecimento>Oficina mão na roda</Estabelecimento>
+    <NumeroCartao>1234 1234 1234 1234</NumeroCartao>
+    <Senha>1234</Senha>
+    <Operacao>Debito</Operacao>
+    <Valor>123.23</Valor>
+</Compra>
+
+{
+    "estabelecimento": "Oficina mao na roda",
+    "numeroCartao": "1234 1234 1234",
+    "senha": "1234",
+    "credito": true,
+    "valor": 123.23
+}
+JavaScript Object Notation
+
+let pessoa = {
+    nome: "Fulano"
+}
